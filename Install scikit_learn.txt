@@ -1,0 +1,12 @@
+untuk bisa memakai sklearn ikuti langkah-langkah berikut ini:
+1. Pastikan Anda telah menginstal scikit-learn (sklearn) dengan benar. Anda dapat menggunakan perintah berikut dalam lingkungan Python Anda untuk menginstalnya:
+
+"pip install -U scikit-learn"
+
+2. Periksa versi Python yang digunakan di lingkungan Anda. Pastikan Anda menggunakan versi Python yang benar dan sudah terinstal dengan baik.
+
+3. Jika Anda menggunakan lingkungan virtual (misalnya Anaconda, Virtualenv), pastikan Anda telah mengaktifkan lingkungan tersebut sebelum mencoba mengimpor sklearn.
+
+4. Jika Anda menggunakan Jupyter Notebook atau Jupyter Lab, pastikan Anda menjalankan kernel yang benar dan lingkungan Python yang tepat di dalam notebook tersebut.
+
+Setelah menginstal atau memperbaiki instalasi scikit-learn (sklearn), Anda seharusnya dapat mengimpor modul train_test_split dan modul-modul lainnya yang diperlukan dengan sukses.
